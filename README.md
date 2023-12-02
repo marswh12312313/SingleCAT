@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">SingleCAT: Single Cell Annotation Toolkit</h1>
-
+<p align="center">A Deep Learning Framework for Organ-Specific Single Cell Classification.<p>
 <p align="center">
   <!-- Python Version -->
   <img src="https://img.shields.io/badge/python-3.10-blue.svg" alt="Python version" />
